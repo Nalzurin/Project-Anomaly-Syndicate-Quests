@@ -82,3 +82,10 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Project-Anomaly-Synd
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\Sources\ProjectAnomalySyndicate\ProjectAnomalySyndicate\obj\Debug\ProjectA.601EF760.Up2Date
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\Sources\ProjectAnomalySyndicate\ProjectAnomalySyndicate\obj\Debug\ProjectAnomalySyndicate.dll
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\Sources\ProjectAnomalySyndicate\ProjectAnomalySyndicate\obj\Debug\ProjectAnomalySyndicate.pdb
+D:\Games\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\1.6\Assemblies\ProjectAnomalySyndicate.dll
+D:\Games\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\1.6\Assemblies\ProjectAnomalySyndicate.pdb
+D:\Games\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\Sources\ProjectAnomalySyndicate\ProjectAnomalySyndicate\obj\Debug\ProjectAnomalySyndicate.csproj.AssemblyReference.cache
+D:\Games\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\Sources\ProjectAnomalySyndicate\ProjectAnomalySyndicate\obj\Debug\ProjectAnomalySyndicate.csproj.CoreCompileInputs.cache
+D:\Games\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\Sources\ProjectAnomalySyndicate\ProjectAnomalySyndicate\obj\Debug\ProjectA.601EF760.Up2Date
+D:\Games\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\Sources\ProjectAnomalySyndicate\ProjectAnomalySyndicate\obj\Debug\ProjectAnomalySyndicate.dll
+D:\Games\steamapps\common\RimWorld\Mods\Project-Anomaly-Syndicate-Quests\Sources\ProjectAnomalySyndicate\ProjectAnomalySyndicate\obj\Debug\ProjectAnomalySyndicate.pdb

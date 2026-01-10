@@ -30,14 +30,14 @@ namespace ProjectAnomalySyndicate.Generation
         {
             Site site = map.Parent as Site;
             PawnGroupKindDef pawnGroup = PawnGroupKindDefOf.PsychicRitualSiege;
-            List<Pawn> cultists = new List<Pawn>();
             float num = Math.Max(Faction.OfHoraxCult.def.MinPointsToGeneratePawnGroup(pawnGroup), site.ActualThreatPoints);
-            cultists.Concat(PawnGroupMakerUtility.GeneratePawns(new PawnGroupMakerParms
+            Log.Message(num);
+            List<Pawn> cultists = PawnGroupMakerUtility.GeneratePawns(new PawnGroupMakerParms
             {
-                groupKind = PawnGroupKindDefOf.PsychicRitualSiege,
+                groupKind = pawnGroup,
                 points = num,
                 faction = Faction.OfHoraxCult
-            }).ToList());
+            }).ToList();
             Log.Message(cultists.Count);
             DistressCallUtility.SpawnPawns(map, cultists, map.Center, 20);
             Lord lord = LordMaker.MakeNewLord(Faction.OfHoraxCult, new LordJob_DefendBase(Faction.OfHoraxCult, map.Center, 180000), map, cultists);
